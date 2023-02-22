@@ -9,7 +9,7 @@ namespace BibliotecaSystem.Data
     public class Conexion
     {
 
-        public static string ConexionName = "data source=DESKTOP-7TJIH7G\\CCBB01;initial catalog = Biblioteca; integrated security = True; MultipleActiveResultSets=True;App=EntityFramework";
+        public static string Cn = "data source=DESKTOP-7TJIH7G\\CCBB01;initial catalog = Biblioteca; integrated security = True; MultipleActiveResultSets=True;App=EntityFramework";
 
     }
 }

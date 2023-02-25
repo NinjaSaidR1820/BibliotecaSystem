@@ -2,7 +2,7 @@ create database Biblioteca
 
 use Biblioteca
 
-create table Libro(
+Create table Libro(
 IdLibro int identity(1,1) primary key not null,
 EstadoLibro bit default 1 not null
 )

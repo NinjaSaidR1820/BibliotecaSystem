@@ -1,0 +1,16 @@
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.csproj.AssemblyReference.cache
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.LogIn.resources
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.Properties.Resources.resources
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.csproj.GenerateResource.cache
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.csproj.CoreCompileInputs.cache
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\bin\Debug\BibliotecaSystem.exe.config
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\bin\Debug\BibliotecaSystem.exe
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\bin\Debug\BibliotecaSystem.pdb
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.Menu.resources
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.exe
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.pdb
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.FormsAgregar.Libro.resources
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.FormsA.Lector.resources
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.FormsA.PrestamoDom.resources
+C:\Users\gparr\Downloads\BibliotecaSystem-master\BibliotecaSystem\obj\Debug\BibliotecaSystem.FormsA.PrestamoPre.resources

@@ -49,16 +49,67 @@
     <Compile Include="Controller\CUsuario.cs" />
     <Compile Include="Data\Conexion.cs" />
     <Compile Include="Data\DUsuario.cs" />
+    <Compile Include="FormsA\Bibliotecario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsA\Bibliotecario.Designer.cs">
+      <DependentUpon>Bibliotecario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsA\Lector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsA\Lector.Designer.cs">
+      <DependentUpon>Lector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsA\Libros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsA\Libros.Designer.cs">
+      <DependentUpon>Libros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsA\PrestamoDom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsA\PrestamoDom.Designer.cs">
+      <DependentUpon>PrestamoDom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsA\PrestamoPre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsA\PrestamoPre.Designer.cs">
+      <DependentUpon>PrestamoPre.cs</DependentUpon>
+    </Compile>
     <Compile Include="LogIn.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="LogIn.Designer.cs">
       <DependentUpon>LogIn.cs</DependentUpon>
     </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormsA\Lector.resx">
+      <DependentUpon>Lector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsA\Libros.resx">
+      <DependentUpon>Libros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsA\PrestamoDom.resx">
+      <DependentUpon>PrestamoDom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsA\PrestamoPre.resx">
+      <DependentUpon>PrestamoPre.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LogIn.resx">
       <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
